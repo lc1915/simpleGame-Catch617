@@ -103,7 +103,7 @@ var render = function () {
 	ctx.font = "24px Helvetica";
 	ctx.textAlign = "left";
 	ctx.textBaseline = "top";
-	ctx.fillText("Goblins caught: " + monstersCaught, 32, 32);
+	ctx.fillText("抓住的617数量！: " + monstersCaught, 32, 32);
 };
 
 // The main game loop
